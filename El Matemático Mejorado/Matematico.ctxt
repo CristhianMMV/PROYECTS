@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Matematico
+comment1.params=uno\ a\ b\ c
+comment1.target=java.lang.String\ resolverecuacion(calculadora,\ double,\ double,\ double)
+comment2.params=uno\ un\ dos
+comment2.target=java.lang.String\ ecuaciondelarecta(calculadora,\ Punto,\ Punto)
+comment3.params=uno\ Hipo\ Cate
+comment3.target=double\ hallarcateto(calculadora,\ double,\ double)
+numComments=4
